@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/python_lessons/static/css/main.5e41044a.css",
+    "main.js": "/python_lessons/static/js/main.2e596108.js",
+    "index.html": "/python_lessons/index.html",
+    "main.5e41044a.css.map": "/python_lessons/static/css/main.5e41044a.css.map",
+    "main.2e596108.js.map": "/python_lessons/static/js/main.2e596108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e41044a.css",
+    "static/js/main.2e596108.js"
+  ]
+}
