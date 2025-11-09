@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/python_lessons/static/css/main.5e41044a.css",
-    "main.js": "/python_lessons/static/js/main.42edd3bd.js",
+    "main.js": "/python_lessons/static/js/main.843921b5.js",
     "index.html": "/python_lessons/index.html",
     "main.5e41044a.css.map": "/python_lessons/static/css/main.5e41044a.css.map",
-    "main.42edd3bd.js.map": "/python_lessons/static/js/main.42edd3bd.js.map"
+    "main.843921b5.js.map": "/python_lessons/static/js/main.843921b5.js.map"
   },
   "entrypoints": [
     "static/css/main.5e41044a.css",
-    "static/js/main.42edd3bd.js"
+    "static/js/main.843921b5.js"
   ]
 }
